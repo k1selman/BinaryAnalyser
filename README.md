@@ -1,1 +1,1 @@
-# Binalyser
+# BinaryAnalyser
